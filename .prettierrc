@@ -1,0 +1,4 @@
+{
+  "semi": false, //去掉;
+  "singleQuote": true // '' 代替 ""
+}
